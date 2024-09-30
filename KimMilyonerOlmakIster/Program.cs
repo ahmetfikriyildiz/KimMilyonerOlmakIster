@@ -49,7 +49,7 @@ namespace KimMilyonerOlmakIster
                 }
             }
 
-            if (dogruCevapSayisi == 2 && dogruCevapSayisi==1 )
+            if (dogruCevapSayisi == 1 )
             {
                 
                 Console.WriteLine("3 -> 5 * 2 + 8 / 2 - 2 işleminin sonucu kaçtır?");
