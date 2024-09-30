@@ -29,6 +29,7 @@ namespace KimMilyonerOlmakIster
                 Console.WriteLine("Yanlış cevap. Doğru cevap 'a) Lama' olacaktı.");
             }
 
+
             if (dogruCevapSayisi < 2)
             {
                 
@@ -48,7 +49,7 @@ namespace KimMilyonerOlmakIster
                 }
             }
 
-            if (dogruCevapSayisi < 2)
+            if (dogruCevapSayisi == 2 && dogruCevapSayisi==1 )
             {
                 
                 Console.WriteLine("3 -> 5 * 2 + 8 / 2 - 2 işleminin sonucu kaçtır?");
